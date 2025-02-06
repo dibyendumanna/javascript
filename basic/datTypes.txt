@@ -1,0 +1,7 @@
+Primitive
+    string, Number , Boolean , Null, Undefined, Symbol, Bigint
+
+
+
+Non Primitive (Reference)
+    arrays , Objects, Functions
